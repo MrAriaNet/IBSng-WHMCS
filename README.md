@@ -59,15 +59,6 @@ chmod -R 755 /usr/local/IBSng/interface/smarty/templates_c
 
 ---
 
-## Logs
-
-* Password changes and errors are logged in:
-
-  * `/tmp/ibsng_debug.log`
-  * `/tmp/ibsng_full_response.log`
-
----
-
 ## Acknowledgements
 
 Thanks to [miladworkshop](https://github.com/miladworkshop/whmcs-ibsng) for releasing the original source code, which served as the foundation for this module.
